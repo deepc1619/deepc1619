@@ -1,6 +1,6 @@
 - 👋 Hi, I’m deep
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Datas cience using python
+- 🌱 I’m currently learning Data Science using python
 - 💞️ I’m looking to collaborate on live projects
 - 📫 How to reach me: email: deepc1619@gmail.com
 
